@@ -1,0 +1,6 @@
+@Coin_Cap_App_HostAddress = http://localhost:5009
+
+GET {{Coin_Cap_App_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
