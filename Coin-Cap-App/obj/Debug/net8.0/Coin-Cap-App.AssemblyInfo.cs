@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Coin-Cap-App")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fcf8003415a529175907f5944e60145d79259d5e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Coin-Cap-App")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Coin-Cap-App")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
